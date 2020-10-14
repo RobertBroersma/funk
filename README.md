@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://raw.githubusercontent.com/RobertBroersma/funk/main/logo.svg" alt="Project logo"></a>
+ <img width=350px height=350px src="https://raw.githubusercontent.com/RobertBroersma/funk/main/logo.svg" alt="Project logo"></a>
 </p>
 
 <div align="center">
