@@ -42,8 +42,6 @@ Or
 yarn add @statikly/funk
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
 ## 🎈 Usage <a name="usage"></a>
 
 At the moment there is one component, `TabGroup`
