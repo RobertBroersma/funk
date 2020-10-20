@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/RobertBroersma/funk/master/logo.svg" alt="Project logo"></a>
+ <img width=350px height=350px src="https://raw.githubusercontent.com/RobertBroersma/funk/main/logo.svg" alt="Project logo"></a>
 </p>
 
 <div align="center">
@@ -41,8 +41,6 @@ Or
 ```
 yarn add @statikly/funk
 ```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🎈 Usage <a name="usage"></a>
 
