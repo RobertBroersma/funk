@@ -86,7 +86,7 @@ export function Tab({
 
   useEffect(() => {
     if (activeTab === index) {
-      tabRef.current?.focus()
+      tabRef.current?.focus({ preventScroll: true })
     }
   }, [activeTab, index])
 
