@@ -57,7 +57,7 @@ export function TabGroup({
 
   let value = useMemo(
     () => ({ id, activeTab, setActiveTab, numTabs, direction }),
-    [activeTab, setActiveTab, numTabs, direction]
+    [activeTab, setActiveTab, numTabs, direction, id]
   )
 
   return <TabContext.Provider value={value}>{children}</TabContext.Provider>
@@ -160,7 +160,6 @@ export function TabPanel({
       }}
       id={`${id}-${index}`}
       role="tabpanel"
-      aria-expanded={activeTab === index}
       className={calculatedClassName}
       {...props}
     />
